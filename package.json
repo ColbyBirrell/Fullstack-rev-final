@@ -10,12 +10,12 @@
     "chalk": "^3.0.0",
     "code-live-student": "^2.0.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "express-session": "^1.17.0",
     "massive": "^6.2.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
